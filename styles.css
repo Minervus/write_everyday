@@ -1,0 +1,15 @@
+#writing-area {
+    height: 100px;
+    width: 400px; 
+    background-color: darkseagreen;
+}
+
+input {
+    height: 100px;
+    width: 400px; 
+    background-color: darkseagreen;
+}
+
+h1 {
+    color: green; 
+}
